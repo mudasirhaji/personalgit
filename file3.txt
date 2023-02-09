@@ -2,3 +2,8 @@ This is my third file
 
 
 Hello
+
+the error has been fixed
+
+
+thanks for collaborating!
